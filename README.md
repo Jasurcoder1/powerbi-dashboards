@@ -1,7 +1,4 @@
-# 📊 Power BI Sales Analytics Dashboard
-
-## 🎯 Loyiha maqsadi
-Ushbu loyiha biznes ma’lumotlarini tahlil qilish va mijozlar hamda sotuvlarni vizual ko‘rinishda tahlil qilishga qaratilgan.
+# 📊 Power BI 
 
 ---
 
