@@ -17,6 +17,10 @@ Ushbu loyiha biznes ma’lumotlarini tahlil qilish va mijozlar hamda sotuvlarni 
 - Daromad tahlili
 - Buyurtmalar trendi
 
+### 📊 Salesdate project
+- bu loyihada savdoni umumiy tahlili ko'rsatib berilgan
+- Daromad tahlili
+- Mijozlar bo'yicha tahlil
 ---
 
 ## 🛠 Foydalanilgan vositalar
